@@ -1,0 +1,5 @@
+wget https://github.com/protocolbuffers/protobuf/releases/download/v3.10.1/protobuf-cpp-3.10.1.zip
+unzip protobuf-cpp-3.10.1.zip
+vs2015工具命令提示符中
+cd protobuf-3.10.1
+mkdir sln && cd sln && cmake ../cmake
