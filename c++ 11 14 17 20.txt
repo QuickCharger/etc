@@ -1,0 +1,8 @@
+学习链接
+	https://changkun.de/modern-cpp/zh-cn/02-usability/index.html#if-switch-%E5%8F%98%E9%87%8F%E5%A3%B0%E6%98%8E%E5%BC%BA%E5%8C%96
+
+编译器版本支持情况
+	https://zh.cppreference.com/w/cpp/compiler_support
+
+待测试
+	if/switch变量声明强化
